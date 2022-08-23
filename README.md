@@ -5,8 +5,8 @@
 命令:/usr 所需权限:RegisterManager
 
 /usr add username password          -- 添加新用户</br>
-/usr password username newpassword  -- 修改一个用户密码
-/usr joinCheck                      -- 开启或关闭加入游戏时的用户名规范验证
-/usr regperm                        -- 给予或收回guest用户组的注册权限
+/usr password username newpassword  -- 修改一个用户密码</br>
+/usr joinCheck                      -- 开启或关闭加入游戏时的用户名规范验证</br>
+/usr regperm                        -- 给予或收回guest用户组的注册权限</br>
 
 配置文件:tshock/RegisterManager.json
